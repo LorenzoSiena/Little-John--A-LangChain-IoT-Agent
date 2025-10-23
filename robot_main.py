@@ -34,7 +34,7 @@ from faster_whisper import WhisperModel
 from robot_recorder.audio_recorder import Push2Rec
 
 #Langfuse not working
-from langfuse.langchain import CallbackHandler 
+#from langfuse.langchain import CallbackHandler 
 
 # Load variable from .env
 load_dotenv()

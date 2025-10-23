@@ -1,4 +1,4 @@
-# LittleJohn A LangChain IoT Agent
+# Little John A LangChain IoT Agent
 
 A Python-based voice assistant project that processes voice commands and performs various actions, built with LangChain 1.0.
 

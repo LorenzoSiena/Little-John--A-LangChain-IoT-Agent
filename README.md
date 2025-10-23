@@ -3,7 +3,7 @@
 A Python-based voice assistant project that processes voice commands and performs various actions, built with LangChain 1.0.
 
 <div align="center">
-  <img src="logo.png" alt="little_jhon_logo" width="512" height="512"/>
+  <img src="logo.jpg" alt="little_jhon_logo" width="512" height="512"/>
 </div>
 
 ## Description

@@ -8,7 +8,7 @@ A Python-based voice assistant project that processes voice commands and perform
 
 ## Description
 
-This project implements a ReAct Agent that can:
+This project implements a **ReAct Agent** that can:
 - Listen to voice commands and respond to the user by voice
 - Process natural language locally
 - Execute tasks based on voice input

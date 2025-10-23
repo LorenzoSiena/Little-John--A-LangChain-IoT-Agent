@@ -27,6 +27,34 @@ uv sync
 #On the api led server (Optional)
 pip install microdot gpiozero 
 ```
+
+## Configuration
+
+Before running the project, you need to initialize your environment variables:
+
+Create the .env file from .env.example:
+
+```bash
+cp .env.example .env
+```
+
+Set your Gemini API key in the .env file:
+
+```bash
+# your API key
+GEMINI_API_KEY=your_gemini_api_key_here
+
+# Optional Whisper model configuration
+WHISPER_MODEL="small"
+WHISPER_DEVICE="cpu"
+WHISPER_COMPUTE_TYPE="int8"
+
+# LED API configuration (if you want to use the LED tool)
+LED_API_BASE_URL=http://192.168.1.2:5000/led
+```
+
+Make sure you replace your_gemini_api_key_here with your actual Gemini API key.
+
 ## Usage
 Run the Agent with the gui
 ```bash

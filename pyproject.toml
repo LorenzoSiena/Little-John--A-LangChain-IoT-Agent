@@ -9,7 +9,6 @@ dependencies = [
     "gtts>=2.5.4",
     "langchain[google-genai]>=1.0.1",
     "langchain-google-vertexai>=3.0.0",
-    "langfuse>=3.6.2",
     "pygame>=2.6.1",
     "pynput>=1.8.1",
     "python-dotenv>=1.1.1",

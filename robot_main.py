@@ -11,7 +11,7 @@
 #               a pc with python3 and uv, 
 #               a speaker 
 #               and a microphone
-# License: MIT 
+# License: GNU General Public License v3.0 (GPLv3) 
 # =======================================================
 
 from langchain.agents import create_agent

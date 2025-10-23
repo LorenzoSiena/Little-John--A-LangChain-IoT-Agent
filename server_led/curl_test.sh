@@ -7,7 +7,7 @@
 # Date: October 2025
 # Description: POST request test for Microdot web server for remote LED control (Pin 17: Red, Pin 27: Blue).
 # Requirements: curl 
-# License: MIT 
+# License: GNU General Public License v3.0 (GPLv3) 
 # =======================================================
 
 

@@ -3,7 +3,7 @@
 # Author: Lorenzo Siena
 # Date: October 2025
 # Description: A class for audio recording with sounddevice
-# License: MIT 
+# License: GNU General Public License v3.0 (GPLv3) 
 # =======================================================
 
 

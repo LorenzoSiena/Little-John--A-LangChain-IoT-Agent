@@ -5,7 +5,7 @@
 # Description: A langchain middleware for text to speech
 # Requirements:  
 #               pygame
-# License: MIT 
+# License: GNU General Public License v3.0 (GPLv3) 
 # =======================================================
 
 

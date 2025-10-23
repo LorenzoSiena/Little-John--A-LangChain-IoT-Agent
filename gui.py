@@ -5,7 +5,7 @@
 # Description: Graphical user interface for voice control with Langchain
 # Requirements: 
 #               pygame, a screen, a speaker and a microphone
-# License: MIT 
+# License: GNU General Public License v3.0 (GPLv3) 
 # =======================================================
 
 

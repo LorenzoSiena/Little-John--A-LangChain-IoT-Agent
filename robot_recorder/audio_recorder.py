@@ -3,7 +3,7 @@
 # Author: Lorenzo Siena
 # Date: October 2025
 # Description: A class for audio recording with pynput and sounddevice (only with keyboard and without gui).
-# License: MIT 
+# License: GNU General Public License v3.0 (GPLv3)
 # =======================================================
 
 

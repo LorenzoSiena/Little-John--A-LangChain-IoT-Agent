@@ -1,14 +1,14 @@
-"""
-File: led_server_microdot_raspy.py
-Author: Lorenzo Siena
-Date: October 2025
-Description: Microdot web server for remote LED control (Pin 17: Red, Pin 27: Blue).
-Requirements: 
-    A raspberry pi (2B or more)
-    python3 
-    pip install gpiozero microdot
-License: MIT 
-"""
+# =======================================================
+# File: led_server_microdot_raspy.py
+# Author: Lorenzo Siena
+# Date: October 2025
+# Description: Microdot web server for remote LED control (Pin 17: Red, Pin 27: Blue).
+# Requirements: 
+#    A raspberry pi (2B or more)
+#    python3 
+#    pip install gpiozero microdot
+# License: GNU General Public License v3.0 (GPLv3)
+# =======================================================
 
 from microdot import Microdot
 from gpiozero import LED

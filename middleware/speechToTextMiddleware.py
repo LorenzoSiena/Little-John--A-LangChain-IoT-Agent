@@ -5,7 +5,7 @@
 # Description: A langchain middleware for speech to text
 # Requirements:  
 #               Whisper
-# License: MIT 
+# License: GNU General Public License v3.0 (GPLv3) 
 # =======================================================
 
 

@@ -58,7 +58,7 @@ Feel free to submit issues and pull requests.
 
 ## License
 
-[MIT License](LICENSE)
+[GNU General Public License v3.0](LICENSE)
 
 ## Author
 

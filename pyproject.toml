@@ -1,0 +1,17 @@
+[project]
+name = "voice-agent-v3"
+version = "0.1.0"
+description = "A voice controlled agent for remote iot device control"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "faster-whisper>=1.2.0",
+    "gtts>=2.5.4",
+    "langchain[google-genai]>=1.0.1",
+    "langchain-google-vertexai>=3.0.0",
+    "langfuse>=3.6.2",
+    "pygame>=2.6.1",
+    "pynput>=1.8.1",
+    "python-dotenv>=1.1.1",
+    "sounddevice>=0.5.2",
+]

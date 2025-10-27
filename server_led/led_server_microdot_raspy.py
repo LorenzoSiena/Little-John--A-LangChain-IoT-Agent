@@ -10,7 +10,7 @@
 # License: GNU General Public License v3.0 (GPLv3)
 # =======================================================
 
-from microdot import Microdot
+from microdot import Microdot,redirect
 from gpiozero import LED
 from time import sleep
 

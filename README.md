@@ -27,7 +27,7 @@ This project implements a **ReAct Agent** that can:
   
 
 ### Full Video Demo
-[![See it in action! (1080p for best experience)]()](https://drive.google.com/file/d/1tecC2FuBbb7S7qHkVKTTYiEA0oQKHGUQ/preview)
+[See it in action! 1080p for best experience](https://drive.google.com/file/d/1tecC2FuBbb7S7qHkVKTTYiEA0oQKHGUQ/preview)
 
 ## Installation
 
